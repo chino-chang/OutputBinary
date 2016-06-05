@@ -1,4 +1,8 @@
-#include <iomanip>
+/**
+    This class implements outputbinary.hpp.
+    These module outpus a binary data.
+    @author chino-chang
+*/
 #include "outputBinary.hpp"
 
 void outputBinary::outputToConsole(std::string inputPath)

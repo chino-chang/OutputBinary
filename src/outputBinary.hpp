@@ -1,4 +1,9 @@
+/**
+    This class outputs binary data of input file. 
+    @author chino-chang
+*/
 #include <fstream>
+#include <iomanip>
 #include <iostream>
 #include <ostream>
 #include <string>
@@ -29,7 +34,7 @@ public:
 
 private:
     /**
-        This variable@defines the maximum number of columns to be output
+        This variable defines the maximum number of columns to be output
     */
     static const int MaxColumn = 16;
 };
