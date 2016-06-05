@@ -1,5 +1,3 @@
-# OutputBinary<br>
-<br>
 This software outputs binary data of input data.<br>
 It supports console-output and externalfile-output.<br>
 It requires command-line parameter.<br>
